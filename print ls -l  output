@@ -1,3 +1,4 @@
+# saved as newFile.yml
 ---
 - name: List files on localhost
   hosts: localhost
